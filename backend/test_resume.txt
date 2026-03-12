@@ -1,0 +1,15 @@
+John Doe
+john.doe@email.com
+123-456-7890
+
+Education:
+B.Tech in Computer Science from IIT Delhi (2018-2022)
+
+Experience:
+Software Engineer at TechCorp (2022-Present)
+- Developed REST APIs using Python and FastAPI.
+- Built reusable React components.
+- Managed Docker containers on AWS.
+
+Skills:
+Python, JavaScript, React, FastAPI, SQL, Docker, AWS, Git

@@ -1,0 +1,33 @@
+# VidyaMitra AI GitIgnore
+
+# Environment variables
+.env
+backend/.env
+web/.env*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Node.js
+node_modules/
+/web/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production
+/web/build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+
+John Smith
+john.smith@example.com
+
+Education:
+B.Tech in Computer Science
+IIT Delhi
+2020 - 2024
+CGPA: 9.2/10
+
+Experience:
+Intern at Google (2023)
+- Worked on scalable backend services.
+
+Skills:
+Python, JavaScript, React, FastAPI, Docker
